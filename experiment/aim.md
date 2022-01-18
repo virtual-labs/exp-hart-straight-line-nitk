@@ -1,1 +1,1 @@
-### Aim of the experiment
+Perform the simulation on the Hart straight line mechanism and understand its motion, in the simulation change the parameters under the variable section  and find out the changes in location and length of the straight line motion.

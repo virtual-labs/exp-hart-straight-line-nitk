@@ -1,1 +1,1 @@
-### Procedure
+The main purpose of this simulation is to understand the motion in Hart's Straight Line Mechanism. Change the parameters under the Variables Section in the simulation to see how the location and length of straight line motion changes. You can hover over "Relation Between Links" to see the geometric relations between various links of the mechanism.
