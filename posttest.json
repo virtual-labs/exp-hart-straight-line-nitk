@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "How many different link lengths are there in Hart's Inversor?",
+      "answers": {
+        "a": "3",
+        "b": "4",
+        "c": "6",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The links in a four bar mechanism is ?",
+      "answers": {
+        "a": "Binary link",
+        "b": "Ternary link",
+        "c": "Flexible link",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Number of links in Hart's Inversor is ",
+      "answers": {
+        "a": "6",
+        "b": "5",
+        "c": "4",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": " Hart's Inversor draws a",
+      "answers": {
+        "a": "Perfect Straight Line",
+        "b": " Approximate Straight Line",
+        "c": "Circle",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    }
+  ]
+}
