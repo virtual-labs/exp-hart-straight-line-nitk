@@ -1,0 +1,1 @@
+1.Use the relations shown in the simulation and prove that the Hart's linkage can be used to draw an exact straight line.
